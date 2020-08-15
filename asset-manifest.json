@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rsquare/static/css/main.34fd04a3.chunk.css",
+    "main.js": "/Rsquare/static/js/main.a4610470.chunk.js",
+    "main.js.map": "/Rsquare/static/js/main.a4610470.chunk.js.map",
+    "runtime-main.js": "/Rsquare/static/js/runtime-main.1390ddf3.js",
+    "runtime-main.js.map": "/Rsquare/static/js/runtime-main.1390ddf3.js.map",
+    "static/js/2.8c54b92d.chunk.js": "/Rsquare/static/js/2.8c54b92d.chunk.js",
+    "static/js/2.8c54b92d.chunk.js.map": "/Rsquare/static/js/2.8c54b92d.chunk.js.map",
+    "index.html": "/Rsquare/index.html",
+    "precache-manifest.42bd32fff892da8e2355b61973bea74e.js": "/Rsquare/precache-manifest.42bd32fff892da8e2355b61973bea74e.js",
+    "service-worker.js": "/Rsquare/service-worker.js",
+    "static/css/main.34fd04a3.chunk.css.map": "/Rsquare/static/css/main.34fd04a3.chunk.css.map",
+    "static/js/2.8c54b92d.chunk.js.LICENSE.txt": "/Rsquare/static/js/2.8c54b92d.chunk.js.LICENSE.txt",
+    "static/media/search.css": "/Rsquare/static/media/home.81da03f3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1390ddf3.js",
+    "static/js/2.8c54b92d.chunk.js",
+    "static/css/main.34fd04a3.chunk.css",
+    "static/js/main.a4610470.chunk.js"
+  ]
+}
