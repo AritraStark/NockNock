@@ -19,7 +19,7 @@ class Card2stack extends React.Component{
         </div>
         <div className="card2stack">
           <Card2 src="profile1.jpg" name="Roise Sutter" desig="Living Reality" stcr="Ontario, Canada" ctzp="Markham,L3R 6G2" ctyp="Real Estate Agency" />
-          <Card2 src="profile2.png" name="Nate Lahey" desig="Cir Reality" stcr="Ontario, Canada" ctzp="Calgary,T2r 0B3" ctyp="Real Estate Agency" />
+          <Card2 src="profile2.png" name="Nate Lahey" desig="Cir Reality" stcr="Ontario, Canada" ctzp="Calgary,T2R 0B3" ctyp="Real Estate Agency" />
           <Card2 src="profile3.png" name="Martha Gim" desig="The Red Pin" stcr="Ontario, Canada" ctzp="North York.M3C 3K5" ctyp="Real Estate Agency" />
           <Card2 src="profile1.jpg" name="Jack Gibbins" desig="Shindico" stcr="Ontario, Canada" ctzp="Ajax,L15 6M2" ctyp="Real Estate Agency" />
         </div>

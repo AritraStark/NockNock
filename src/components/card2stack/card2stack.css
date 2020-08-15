@@ -14,6 +14,7 @@
     color: #00adef;
     border: none;
     border-bottom: solid 0.1em #919191;
+    font-family: inherit;
 }
 
 .dropdown:focus{
