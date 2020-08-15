@@ -1,0 +1,8 @@
+.mid2{
+  text-align: center;
+}
+
+.card1stack{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}

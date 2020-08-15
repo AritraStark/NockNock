@@ -1,0 +1,46 @@
+.navbar, .navbar1{
+  display: inline-flex;
+  justify-content: space-between;
+  width: 80rem
+
+}
+.logo, .nav-list, .hamburger{
+  justify-content:center;
+}
+
+.logo{
+  margin: 1rem;
+  margin-left: 3rem;
+}
+
+.logoim{
+  height: 1.5em;
+}
+
+.nav-list ul{
+  list-style: none;
+  display: inline-flex;
+  margin-top: 1.3rem;
+  margin-right: 8.3rem;
+}
+
+
+.nav-list li a{
+  padding: 0 1rem;
+  text-decoration: none;
+  color: #000000;
+}
+
+.nav-list li a:hover{
+  color: #00adef;
+}
+
+.nav-list li a:active{
+  color: #00adef;
+}
+
+
+.hamburger{
+  margin-top: 1.2rem;
+  flex-wrap: wrap-reverse;
+}

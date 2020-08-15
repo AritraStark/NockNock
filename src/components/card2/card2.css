@@ -1,0 +1,77 @@
+.card2{
+  margin: 2rem;
+}
+
+
+
+.card2 img{
+  height: 9rem;
+  border-radius: 7rem;
+}
+
+.card2 p{
+  color: #919191;
+}
+
+.outline{
+  border: solid 0.1px #ffffff;
+  height: 8rem;
+  border-radius: 7rem;
+  width:8rem;
+  position: relative;
+  z-index: 100;
+  top:8.6em;
+  left: 0.4em;
+}
+
+.incon{
+  background-color: #ffffff;
+  padding: 1rem;
+  margin-left: 3rem;
+  margin-top: -6rem;
+  border-radius: 1rem;
+  text-align: center;
+}
+
+.call{
+  text-align: right;
+  color:#919191;
+}
+
+.uptxt{
+  text-align: center;
+}
+
+.uptxt1 h3{
+  color: #00adef;
+}
+
+
+.uptxt2{
+  display: inline-flex;
+}
+
+.uptxt2 h4{
+  margin: 1em 0;
+  padding: 0 1em;
+  border-right: solid;
+  border-color: #00adef;
+
+}
+
+.uptxt2 p{
+  padding: 0 1em;
+}
+
+
+.dwtxt{
+  display: inline-flex;
+  text-align: center;
+  justify-content: space-between;
+  width: inherit;
+}
+
+.dwtxt1{
+  text-align: center;
+  margin: 1em;
+}

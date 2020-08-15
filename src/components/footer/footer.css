@@ -1,0 +1,58 @@
+.foot{
+  background-color: #00adef;
+  color: #ffffff;
+  font-size: 0.8rem;
+  margin-top: 2rem;
+}
+
+.low{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  padding: 2rem;
+
+}
+
+.low ul{
+  list-style: none;
+}
+
+.low ul li{
+  padding: 0.1em 0;
+}
+
+.low ul li a{
+  text-decoration: none;
+  color: #ffffff;
+}
+
+
+.lw2 h3{
+  padding-left: 2em;
+}
+
+
+.lw3 h3{
+  color: #00adef;
+}
+
+.low2{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: space-between;
+  font-size: 0.7rem;
+  border-top: solid 0.1em #a8f3ff; 
+}
+
+.low22{
+  text-align: right;
+  padding-right: 2rem;
+}
+
+.low21{
+  padding-left: 2rem;
+}
+
+
+.lw4 img{
+  margin: 0 1em;
+}
