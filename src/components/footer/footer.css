@@ -82,3 +82,19 @@
     }
 
     }
+
+    @media only screen and (max-width:470px) {
+      .low{
+        text-align: center;
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        padding: 2rem;
+
+      }
+      .low ul{
+        margin-right: 3em;
+      }
+      .lw2 h3{
+        padding-left: 0;
+      }
+      }

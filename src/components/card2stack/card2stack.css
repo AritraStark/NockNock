@@ -96,3 +96,35 @@
           grid-template-columns: 1fr;
         }
         }
+
+        @media only screen and (max-width:570px) {
+          .selform{
+
+            margin-right:11rem;
+            margin-left: 10rem;
+
+
+          }
+          .card2stack{
+
+            grid-template-columns: 1fr;
+          }
+
+          }
+
+          @media only screen and (max-width:470px) {
+            .mid2link a{
+              color:  #00adef;
+              text-decoration: none;
+              padding-left: 0;
+
+            }
+            .selform{
+
+              margin-right:5rem;
+              margin-left: 5rem;
+
+
+            }
+
+          }

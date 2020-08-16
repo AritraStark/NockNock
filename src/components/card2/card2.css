@@ -75,3 +75,47 @@
   text-align: center;
   margin: 1em;
 }
+
+
+  @media only screen and (max-width:470px) {
+    .card2{
+      margin: -1.5rem;
+    }
+
+    .incon{
+      background-color: #ffffff;
+      padding: 1rem 0;
+      margin-left: 2.5rem;
+      margin-right: 1rem;
+      margin-top: -6rem;
+      border-radius: 1rem;
+      text-align: center;
+    }
+    .dwtxt{
+      display: block;
+
+    }
+    .dwtxt1{
+      text-align: center;
+      margin: 1em 0;
+    }
+    .card2{
+      width: 24rem;
+    }
+    .outline{
+      border: solid 0.1px #ffffff;
+      height: 6rem;
+      border-radius: 7rem;
+      width:6rem;
+      position: relative;
+      z-index: 100;
+      top:7.6em;
+      left: 2.4em;
+    }
+    .card2 img{
+      height: 7rem;
+      margin-left: 2em;
+      margin-top: 1em;
+    }
+
+  }

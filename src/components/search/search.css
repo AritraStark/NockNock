@@ -113,3 +113,51 @@
         }
 
         }
+
+        @media only screen and (max-width:570px) {
+          .mid1txt h1{
+            margin: 0 6rem;
+            padding: 1rem 0;
+          }
+
+          .mid1txt h5{
+            margin: 0 10rem;
+            padding: 2rem 0;
+          }
+
+          .search button{
+            margin-top: 1em;
+          }
+          .search  input{
+
+            padding: 1rem 17rem 1rem 1rem;
+
+          }
+
+
+          }
+          @media only screen and (max-width:470px) {
+            .mid1txt h1{
+              margin: 0 4rem;
+              padding: 1rem 0;
+            }
+
+            .mid1txt h5{
+              margin: 0 7rem;
+              padding: 2rem 0;
+            }
+
+            .search button{
+              margin-top: 1em;
+            }
+            .search  input{
+
+              padding: 1rem 9rem 1rem 1rem;
+
+            }
+            .mid1 h2{
+              margin: 0 0.1em;
+            }
+
+
+            }
