@@ -42,3 +42,57 @@
   padding-left: 3.5em;
 
 }
+
+
+/* mediaqueries */
+
+
+@media only screen and (max-width:1202px) {
+  .selform{
+
+    margin-right:30rem;
+
+
+
+  }
+  }
+
+
+  @media only screen and (max-width:1008px) {
+    .selform{
+
+      margin-right:25rem;
+      margin-left: 26rem;
+
+
+    }
+    }
+
+
+    @media only screen and (max-width:775px) {
+      .selform{
+
+        margin-right:17rem;
+        margin-left: 20rem;
+
+
+      }
+      .card2stack{
+
+        grid-template-columns: 1fr;
+      }
+      }
+
+      @media only screen and (max-width:640px) {
+        .selform{
+
+          margin-right:14rem;
+          margin-left: 15rem;
+
+
+        }
+        .card2stack{
+
+          grid-template-columns: 1fr;
+        }
+        }

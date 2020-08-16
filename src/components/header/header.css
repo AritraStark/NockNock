@@ -44,3 +44,51 @@
   margin-top: 1.2rem;
   flex-wrap: wrap-reverse;
 }
+
+
+
+
+
+
+/* mediaqueries */
+
+
+@media only screen and (max-width:1202px) {
+  .navbar, .navbar1{
+
+    width: 70rem
+
+  }
+  }
+
+  @media only screen and (max-width:1008px) {
+    .navbar, .navbar1{
+
+      width: 58rem
+
+    }
+    }
+
+    @media only screen and (max-width:775px) {
+      .navbar, .navbar1{
+
+        width: 42rem
+
+      }
+      .nav-list ul{
+      display: none;
+      }
+
+      }
+
+      @media only screen and (max-width:640px) {
+        .navbar, .navbar1{
+
+          width: 35rem
+
+        }
+        .nav-list ul{
+        display: none;
+        }
+
+        }

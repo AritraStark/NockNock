@@ -55,3 +55,61 @@
 .m1link{
   padding: 1rem;
 }
+
+/* mediaqueries */
+
+@media only screen and (max-width:1202px) {
+  .mid1txt h1{
+    margin: 0 24rem;
+    padding: 1rem 0;
+  }
+
+  .mid1txt h5{
+    margin: 0 26rem;
+    padding: 2rem 0;
+  }
+
+  }
+
+
+  @media only screen and (max-width:1008px) {
+    .mid1txt h1{
+      margin: 0 18rem;
+      padding: 1rem 0;
+    }
+
+    .mid1txt h5{
+      margin: 0 21rem;
+      padding: 2rem 0;
+    }
+
+    }
+    @media only screen and (max-width:775px) {
+      .mid1txt h1{
+        margin: 0 14rem;
+        padding: 1rem 0;
+      }
+
+      .mid1txt h5{
+        margin: 0 14rem;
+        padding: 2rem 0;
+      }
+
+      }
+
+      @media only screen and (max-width:640px) {
+        .mid1txt h1{
+          margin: 0 7rem;
+          padding: 1rem 0;
+        }
+
+        .mid1txt h5{
+          margin: 0 12rem;
+          padding: 2rem 0;
+        }
+
+        .search button{
+          margin-top: 1em;
+        }
+
+        }
