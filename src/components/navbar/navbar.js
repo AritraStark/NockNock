@@ -4,7 +4,7 @@ import './navbar.css';
 class Navbar extends React.Component{
   constructor(props) {
    super(props);
-   this.state = { value: true };
+   this.state = { value: false };
    this.toggleMood = this.toggleMood.bind(this);
 
  }
@@ -12,7 +12,7 @@ class Navbar extends React.Component{
     const newMood = this.state.value == true ? false : true;
     this.setState({ value: newMood });
   }
-  
+
 
   render(){
     return(
