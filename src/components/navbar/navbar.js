@@ -2,10 +2,25 @@ import React from 'react';
 import './navbar.css';
 
 class Navbar extends React.Component{
+  constructor(props) {
+   super(props);
+   this.state = { value: true };
+   this.toggleMood = this.toggleMood.bind(this);
+
+ }
+ toggleMood() {
+    const newMood = this.state.value == true ? false : true;
+    this.setState({ value: newMood });
+  }
+  
+
   render(){
     return(
       <div className="navbar2">
-        <div className="n1">
+      <div className="hamburger" onClick={this.toggleMood}>
+        <i className="fas fa-bars"></i>
+      </div>
+        {this.state.value==true? <div className="n1">
           <ul>
             <li><a href="#">Agent Directory</a></li>
             <li><a href="#">About Us</a></li>
@@ -26,7 +41,7 @@ class Navbar extends React.Component{
               </div>
             </div>
           </ul>
-        </div>
+        </div> : <div></div>}
 
       </div>
     );

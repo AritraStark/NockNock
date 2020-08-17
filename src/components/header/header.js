@@ -17,9 +17,7 @@ class Header extends React.Component{
                 <li><a href="#">FINANCE</a></li>
               </ul>
             </div>
-            <div className="hamburger">
-              <i className="fas fa-bars"></i>
-            </div>
+            
           </div>
         </nav>
       </div>
