@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       <Header/>
-
+      <Navbar/>
       <Search/>
       <Card1stack/>
       <Card2stack/>
