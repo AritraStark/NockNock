@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7056967cc98681b1b822f847b6d6e73b",
+    "revision": "7ed6436691eb3c6792300731356b9fca",
     "url": "/Rsquare/index.html"
   },
   {
-    "revision": "f819afb88facacbbbbb4",
-    "url": "/Rsquare/static/css/main.34fd04a3.chunk.css"
+    "revision": "286bedab7c816eeb0978",
+    "url": "/Rsquare/static/css/main.81f972e7.chunk.css"
   },
   {
-    "revision": "e18d487e331ca0cae1ed",
-    "url": "/Rsquare/static/js/2.8c54b92d.chunk.js"
+    "revision": "279ee0c0874cfd73b503",
+    "url": "/Rsquare/static/js/2.4dcea7c3.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Rsquare/static/js/2.8c54b92d.chunk.js.LICENSE.txt"
+    "url": "/Rsquare/static/js/2.4dcea7c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f819afb88facacbbbbb4",
-    "url": "/Rsquare/static/js/main.a4610470.chunk.js"
+    "revision": "286bedab7c816eeb0978",
+    "url": "/Rsquare/static/js/main.c667412a.chunk.js"
   },
   {
     "revision": "32379f66603fdb027ce4",
